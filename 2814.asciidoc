@@ -1,7 +1,8 @@
 = Dubliners
 James Joyce
-
+v0.1, 2015-04-17
 :toc:
+:homepage: https://en.wikipedia.org/wiki/Dubliners
 
 
 == THE SISTERS
