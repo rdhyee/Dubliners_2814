@@ -1,0 +1,7 @@
+language: ruby
+before_install:
+  - gem install asciidoctor
+branches:
+  only:
+    - epub_generation
+script: asciidoctor -a toc -d book 2814.asciidoc -o 2814.html
