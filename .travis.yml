@@ -5,3 +5,5 @@ branches:
   only:
     - epub_generation
 script: asciidoctor -a toc -d book 2814.asciidoc -o 2814.html
+addons:
+    artifacts: true
